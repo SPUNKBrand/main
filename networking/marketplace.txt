@@ -1,0 +1,3 @@
+~Marketplace
+:URL
+@https://marketplace.secondlife.com/stores/5050
