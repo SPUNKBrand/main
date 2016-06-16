@@ -1,3 +1,4 @@
 ~Landmark
-:SL
-@http://maps.secondlife.com/secondlife/Tempesta%20Rosa/55/142/22
+SL
+Visit SPUNK Brand in-world!
+Tempesta Rosa;55;142;22

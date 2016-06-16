@@ -1,3 +1,4 @@
 ~Marketplace
-:URL
-@https://marketplace.secondlife.com/stores/5050
+URL
+Check out SPUNK Brand on the Marketplace!
+https://marketplace.secondlife.com/stores/5050

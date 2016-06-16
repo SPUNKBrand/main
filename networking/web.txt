@@ -1,3 +1,4 @@
 ~Web
-:URL
-@http://spunkstore.tumblr.com/
+URL
+Visit SPUNK Brand online for news, product information, guides, and more!
+http://spunkstore.tumblr.com/
