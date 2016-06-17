@@ -1,1 +1,0 @@
-Connect with SPUNK Brand using the most up-to-date information!
